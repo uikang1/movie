@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-// 영화 상세 보기 박스
+
 export const Container = styled.div`
     display: none;
     position: fixed;
